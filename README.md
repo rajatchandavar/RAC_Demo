@@ -1,1 +1,2 @@
 Hello
+Appended a line
