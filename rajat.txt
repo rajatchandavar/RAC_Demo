@@ -1,6 +1,10 @@
 Allalongthewatchtower
 Princess kept a view
+<<<<<<< HEAD
 Updating this line from Master branch to cause conflict with other branch which modified the same line
+=======
+Bound to cause trouble as I am updating an existing line
+>>>>>>> conflict_resolution
 
 Appended new line for checking diff command working
 on a branch
